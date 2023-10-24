@@ -3,7 +3,7 @@ openapi.yaml
 openapitools.json
 
 # compiled output
-/dist
+# /dist
 /node_modules
 
 # Logs
